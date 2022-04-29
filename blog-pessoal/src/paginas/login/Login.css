@@ -1,0 +1,16 @@
+.textos1 {
+    font-weight: bold !important;
+}
+
+.imagem {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/323af360-ba9a-4194-aa5e-b160f572b965/ddrzovm-33a16e77-a48d-4709-99e8-622669f81e11.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyM2FmMzYwLWJhOWEtNDE5NC1hYTVlLWIxNjBmNTcyYjk2NVwvZGRyem92bS0zM2ExNmU3Ny1hNDhkLTQ3MDktOTllOC02MjI2NjlmODFlMTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EFfU9gvU-b43SkFba7UTJVp0rMMsrEjyUpk3lw3Y51U);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-decorator-none {
+    text-decoration: none;
+}
